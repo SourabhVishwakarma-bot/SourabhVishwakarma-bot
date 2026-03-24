@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Saurabh Vishwakarma 👋
 
-<!--
-**SourabhVishwakarma-bot/SourabhVishwakarma-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 B.Tech Student | Aspiring Software Developer
+💡 I build real-world AI and Web-based solutions
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 About Me
+
+* Passionate about solving real-world problems using technology
+* Interested in AI, Web Development & Optimization Systems
+
+---
+
+## 🧠 Skills
+
+💻 Programming
+
+* Python (AI, Automation, Backend)
+* Java (Core Programming)
+
+🌐 Web Development
+
+* HTML, CSS, JavaScript
+* Flask (Backend Development)
+
+🤖 AI & Problem Solving
+
+* Machine Learning (CNN, Classification)
+* Genetic Algorithms (Optimization Problems)
+
+🗄 Database
+
+* MySQL
+
+
+---
+
+## 🚀 Featured Project
+
+### AI Smart Route Optimizer (Ongoing)
+
+* Optimizes delivery routes using Genetic Algorithms
+* Reduces travel distance and time
+
+---
+
+## 📫 Connect
+
+* LinkedIn: (http://linkedin.com/in/saurabh-vishwakarma-tech)
+* Email: (saurabhvishwakarma43155@gmail.com)
